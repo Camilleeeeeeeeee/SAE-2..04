@@ -1,0 +1,118 @@
+﻿Session,n1,integer
+"Statut de l’établissement de la filière de formation (public, privé…)",n2,Char(33) 
+Code UAI de l'établissement,n3,Char(8)
+Établissement,n4,text
+Code départemental de l’établissement,n5,Char(3)
+Département de l’établissement,n6,Char(24)
+Région de l’établissement,n7,text
+Académie de l’établissement,n8,text
+Commune de l’établissement,n9,text
+Filière de formation,n10,text
+Sélectivité,n11,text
+Filière de formation très agrégée,n12,text
+Filière de formation détaillée,n13,text
+Filière de formation,n14,text
+Filière de formation détaillée bis,n15,text
+Filière de formation très détaillée,n16,text
+Coordonnées GPS de la formation,n17,text
+Capacité de l’établissement par formation,n18,text
+Effectif total des candidats pour une formation,n19,text
+Dont effectif des candidates pour une formation,n20,text
+Effectif total des candidats en phase principale,n21,text
+Dont effectif des candidats ayant postulé en internat,n22,text
+Effectif des candidats néo bacheliers généraux en phase principale,n23,text
+Dont effectif des candidats boursiers néo bacheliers généraux en phase principale,n24,text
+Effectif des candidats néo bacheliers technologiques en phase principale,n25,text
+Dont effectif des candidats boursiers néo bacheliers technologiques en phase principale,n26,text
+Effectif des candidats néo bacheliers professionnels en phase principale,n27,text
+Dont effectif des candidats boursiers néo bacheliers professionnels en phase principale,n28,integer
+Effectif des autres candidats en phase principale,n29,integer
+Effectif total des candidats en phase complémentaire,n30,integer
+Effectif des candidats néo bacheliers généraux en phase complémentaire,n31,integer
+Effectif des candidats néo bacheliers technologique en phase complémentaire,n32,integer
+Effectif des candidats néo bacheliers professionnels en phase complémentaire,n33,integer
+Effectifs des autres candidats en phase complémentaire,n34,integer
+Effectif total des candidats classés par l’établissement en phase principale,n35,integer
+Effectif des candidats classés par l’établissement en phase complémentaire,n36,integer
+Effectif des candidats classés par l’établissement en internat (CPGE),n37,integer
+Effectif des candidats classés par l’établissement hors internat (CPGE),n38,integer
+Effectif des candidats néo bacheliers généraux classés par l’établissement,n39,integer
+Dont effectif des candidats boursiers néo bacheliers généraux classés par l’établissement,n40,integer
+Effectif des candidats néo bacheliers technologiques classés par l’établissement,n41,integer
+Dont effectif des candidats boursiers néo bacheliers technologiques classés par l’établissement,n42,integer
+Effectif des candidats néo bacheliers professionnels classés par l’établissement,n43,integer
+Dont effectif des candidats boursiers néo bacheliers professionnels classés par l’établissement,n44,integer
+Effectif des autres candidats classés par l’établissement,n45,integer
+Effectif total des candidats ayant reçu une proposition d’admission de la part de l’établissement,n46,integer
+Effectif total des candidats ayant accepté la proposition de l’établissement (admis),n47,integer
+Dont effectif des candidates admises,n48,integer
+Effectif des admis en phase principale,n49,integer
+Effectif des admis en phase complémentaire,n50,integer
+Dont effectif des admis ayant reçu leur proposition d’admission à l'ouverture de la procédure principale,n51,float
+Dont effectif des admis ayant reçu leur proposition d’admission avant le baccalauréat,n52,float
+Dont effectif des admis ayant reçu leur proposition d’admission avant la fin de la procédure principale,n53,float
+Dont effectif des admis en internat,n54,float
+Dont effectif des admis boursiers néo bacheliers,n55,float
+Effectif des admis néo bacheliers,n56,float
+Effectif des admis néo bacheliers généraux,n57,float
+Effectif des admis néo bacheliers technologiques,n58,float
+Effectif des admis néo bacheliers professionnels,n59,float
+Effectif des autres candidats admis,n60,integer
+Dont effectif des admis néo bacheliers sans information sur la mention au bac,n61,integer
+Dont effectif des admis néo bacheliers sans mention au bac,n62,integer
+Dont effectif des admis néo bacheliers avec mention Assez Bien au bac,n63,integer
+Dont effectif des admis néo bacheliers avec mention Bien au bac,n64,integer
+Dont effectif des admis néo bacheliers avec mention Très Bien au bac,n65,integer
+Dont effectif des admis néo bacheliers avec mention Très Bien avec félicitations au bac,n66,float
+Effectif des admis néo bacheliers généraux ayant eu une mention au bac,n67,integer
+Effectif des admis néo bacheliers technologiques ayant eu une mention au bac,n68,float
+Effectif des admis néo bacheliers professionnels ayant eu une mention au bac,n69,integer
+Dont effectif des admis issus du même établissement (BTS/CPGE),n70,integer
+Dont effectif des admises issues du même établissement (BTS/CPGE),n71,integer
+Dont effectif des admis issus de la même académie,n72,integer
+Dont effectif des admis issus de la même académie (Paris/Créteil/Versailles réunies),n73,integer
+% d’admis ayant reçu leur proposition d’admission à l'ouverture de la procédure principale,n74,float
+% d’admis ayant reçu leur proposition d’admission avant le baccalauréat,n75,float
+% d’admis ayant reçu leur proposition d’admission avant la fin de la procédure principale,n76,float
+% d’admis dont filles,n77,float
+% d’admis néo bacheliers issus de la même académie,n78,float
+% d’admis néo bacheliers issus de la même académie (Paris/Créteil/Versailles réunies),n79,float
+% d’admis néo bacheliers issus du même établissement (BTS/CPGE),n80,float
+% d’admis néo bacheliers boursiers,n81,float
+% d’admis néo bacheliers,n82,float
+% d’admis néo bacheliers sans information sur la mention au bac,n83,float
+% d’admis néo bacheliers sans mention au bac,n84,float
+% d’admis néo bacheliers avec mention Assez Bien au bac,n85,float
+% d’admis néo bacheliers avec mention Bien au bac,n86,float
+% d’admis néo bacheliers avec mention Très Bien au bac,n87,float
+% d’admis néo bacheliers avec mention Très Bien avec félicitations au bac,n88,float
+% d’admis néo bacheliers généraux,n89,float
+Dont % d’admis avec mention (BG),n90,float
+% d’admis néo bacheliers technologiques,n91,float
+Dont % d’admis avec mention (BT),n92,float
+% d’admis néo bacheliers professionnels,n93,float
+Dont % d’admis avec mention (BP),n94,float
+Effectif des candidats en terminale générale ayant reçu une proposition d’admission de la part de l’établissement,n95,float
+Dont effectif des candidats boursiers en terminale générale ayant reçu une proposition d’admission de la part de l’établissement,n96,float
+Effectif des candidats en terminale technologique ayant reçu une proposition d’admission de la part de l’établissement,n97,float
+Dont effectif des candidats boursiers en terminale technologique ayant reçu une proposition d’admission de la part de l’établissement,n98,float
+Effectif des candidats en terminale professionnelle ayant reçu une proposition d’admission de la part de l’établissement,n99,float
+Dont effectif des candidats boursiers en terminale générale professionnelle ayant reçu une proposition d’admission de la part de l’établissement,n100,float
+Effectif des autres candidats ayant reçu une proposition d’admission de la part de l’établissement,n101,float
+Regroupement 1 effectué par les formations pour les classements,n102,Char(39)
+Rang du dernier appelé du groupe 1,n103,float
+Regroupement 2 effectué par les formations pour les classements,n104,Char(39)
+Rang du dernier appelé du groupe 2,n105,integer
+Regroupement 3 effectué par les formations pour les classements,n106,Char(39)
+Rang du dernier appelé du groupe 3,n107,integer
+list_com,n108,Char(45)
+tri,n109,Char(19)
+cod_aff_form,n110,integer
+Concours communs et banque d'épreuves,n111,text
+Lien de la formation sur la plateforme Parcoursup,n112,text
+Taux d’accès,n113,float
+Part des terminales générales qui étaient en position de recevoir une proposition en phase principale,n114,float
+Part des terminales technologiques qui étaient en position de recevoir une proposition en phase principale,n115,float
+Part des terminales professionnelles qui étaient en position de recevoir une proposition en phase principale,n116,float
+etablissement_id_paysage,n117,Char(5)
+composante_id_paysage,n118,Char(5)
